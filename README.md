@@ -53,13 +53,7 @@ The notebook leverages pre-trained CNN models (like MobileNetV2, ResNet50, etc.)
 
     Run the notebook in Jupyter or any compatible IDE.
 
-📊 Results
 
-    Accuracy: [Include final accuracy here]
-
-    Loss: [Include final loss here]
-
-    Model achieves high accuracy with low training time due to transfer learning.
 
 📎 Future Work
 
